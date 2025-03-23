@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hey, I'm Maria Eduarda 
+-> A little bit more about me :)
 
-<!--
-**DKuhn29/DKuhn29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+``` cpp
+#include <bits/stdc++.h>
+using namespace std;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+struct DKuhn29 {
+    int age = 17;
+    string name = "Maria Eduarda Gomes Kuhn";
+    string nationality = "Brazilian";
+    string occupation = "High-school student";
+    vector<string> techStack = {"C", "C++", "Python", "Git", "JavaScript", "HTML", "CSS"};
+    vector<string> hobbies = {"Programming Contest", "Reading", "Video games", "Watching series", "Gym", "Traveling"};
+    string currentFocus = "Enter in the university and learn a lot of things";
+    vector<string> spokenLanguages = {"Portuguese (Brazilian)", "English"};
+    string codeForces = "DKuhn29";
+};
+
+int main(){
+    return 0;
+}
+
+```
